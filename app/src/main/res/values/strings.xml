@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Set Game</string>
+
+    <string name="action_settings">New Game</string>
+    <string name="jest_set">set znaleziony</string>
+    <string name="brak_seta">to nie jest set</string>
+    <string name="dialog_message">Play Again?</string>
+    <string name="dialog_title">GAME OVER</string>
+    <string name="ok">Yes</string>
+    <string name="cancel">No</string>
+
+</resources>
